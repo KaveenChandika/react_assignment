@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    background-color: yellow;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.header_left{
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.header_right{
+    display: flex;
+    margin-right: 10px;
+    align-items: center;
+}

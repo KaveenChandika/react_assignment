@@ -1,0 +1,9 @@
+.searchcontent{
+    margin: 20px;
+    box-shadow: 0px 6px 18px -1px black;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,10 @@
+.topcontent{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 30px; */
+    margin: 10px;
+}
+
+.topcontent_left > p{
+    font-size: 25px;
+}
